@@ -18,6 +18,10 @@ These scripts let you discover that Alice's followers most often follow Ida and 
 | Harry  | 1     |
 | Jane   | 1     |
 
+## Requirements
+
+* Written for Python 2.7, probably needs adaptation for Python 3
+* [Tweepy](http://www.tweepy.org/)
 
 ## Usage
 
